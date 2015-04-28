@@ -37,5 +37,6 @@ class Example
         Console.WriteLine("Тип переменной Баланс: {0}",Bal.GetType());
 
         Console.Read();
+        Console.Read();
     }
 }
